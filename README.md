@@ -50,7 +50,7 @@ This project analyzes survey data from **1,29,880 airline passengers** to uncove
 - ✅ Tableau Dashboard (interactive)
 - ✅ SQL Scripts (MySQL)
 - ✅ Cleaned Dataset (CSV)
-- ✅ [Project Report PDF](#)
+- ✅ Project Report PDF
 - ✅ Strategic insights & business recommendations
 
 ---
@@ -58,7 +58,7 @@ This project analyzes survey data from **1,29,880 airline passengers** to uncove
 ## 📬 Contact
 
 **Sujal Gupta**  
-[GitHub](https://github.com/gsujal421)
+sujalgupta421@gmail.com
 
 ---
 
