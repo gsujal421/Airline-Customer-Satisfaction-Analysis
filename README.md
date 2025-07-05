@@ -1,4 +1,4 @@
-# ✈️ Airline Customer Satisfaction Dashboard
+# ✈️ Airline Customer Satisfaction 
 
 An end-to-end Business Intelligence project using **Excel, SQL (MySQL), and Tableau** to analyze and visualize passenger satisfaction patterns across various customer segments and flight conditions.
 
